@@ -1,7 +1,7 @@
 # 🔥 Turbojet Engine Prototype
 
 <p align="center">
-  <img src="images/img1.png" width="850">
+  <img src="Images/img1.png" width="850">
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ The prototype consists of the following major sections:
 - **Ignition system**
 
 <p align="center">
-  <img src="images/img1.png" width="850">
+  <img src="Images/img1.png" width="850">
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@ Blade geometry is an important part of turbomachinery design because the blade a
 The prototype uses a **42° blade angle** for the designed blade geometry.
 
 <p align="center">
-  <img src="images/img2.png" width="850">
+  <img src="Images/img2.png" width="850">
 </p>
 
 <p align="center">
@@ -138,7 +138,7 @@ The compressor and turbine are mechanically connected through a common shaft.
 The compressor is responsible for increasing the pressure of the incoming air, while the turbine extracts energy from the hot combustion gases.
 
 <p align="center">
-  <img src="images/img3.png" width="900">
+  <img src="Images/img3.png" width="900">
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@ The compressor is responsible for increasing the pressure of the incoming air, w
 ### Reference Mechanical Arrangement
 
 <p align="center">
-  <img src="images/img4.png" width="850">
+  <img src="Images/img4.png" width="850">
 </p>
 
 <p align="center">
@@ -168,7 +168,7 @@ Different blade geometries and rotor configurations were explored during the des
 ## Turbine / Blade Model
 
 <p align="center">
-  <img src="images/img6.png" width="750">
+  <img src="Images/img6.png" width="750">
 </p>
 
 <p align="center">
@@ -178,7 +178,7 @@ Different blade geometries and rotor configurations were explored during the des
 ## Curved Blade Geometry
 
 <p align="center">
-  <img src="images/img7.png" width="750">
+  <img src="Images/img7.png" width="750">
 </p>
 
 <p align="center">
@@ -200,7 +200,7 @@ The CAD models were used to study:
 An electronically controlled ignition system was developed for the combustion chamber.
 
 <p align="center">
-  <img src="images/img8.png" width="850">
+  <img src="Images/img8.png" width="850">
 </p>
 
 <p align="center">
@@ -271,7 +271,7 @@ After fabrication and assembly, the prototype was experimentally tested to evalu
 ## Initial Test
 
 <p align="center">
-  <img src="images/img5.gif" width="700">
+  <img src="Images/img5.gif" width="700">
 </p>
 
 <p align="center">
@@ -281,7 +281,7 @@ After fabrication and assembly, the prototype was experimentally tested to evalu
 ## Combustion Test
 
 <p align="center">
-  <img src="images/img9.png" width="850">
+  <img src="Images/img9.png" width="850">
 </p>
 
 <p align="center">
@@ -388,7 +388,7 @@ turbojet-engine-prototype/
 │
 ├── README.md
 │
-├── images/
+├── Images/
 │   ├── img1.png
 │   ├── img2.png
 │   ├── img3.png
@@ -456,39 +456,39 @@ The main goals of this project were:
 ## Prototype
 
 <p align="center">
-  <img src="images/img1.png" width="850">
+  <img src="Images/img1.png" width="850">
 </p>
 
 ## Blade Design
 
 <p align="center">
-  <img src="images/img2.png" width="850">
+  <img src="Images/img2.png" width="850">
 </p>
 
 ## CAD Models
 
 <p align="center">
-  <img src="images/img6.png" width="600">
+  <img src="Images/img6.png" width="600">
 </p>
 
 <p align="center">
-  <img src="images/img7.png" width="600">
+  <img src="Images/img7.png" width="600">
 </p>
 
 ## Ignition System
 
 <p align="center">
-  <img src="images/img8.png" width="850">
+  <img src="Images/img8.png" width="850">
 </p>
 
 ## Testing
 
 <p align="center">
-  <img src="images/img5.gif" width="700">
+  <img src="Images/img5.gif" width="700">
 </p>
 
 <p align="center">
-  <img src="images/img9.png" width="850">
+  <img src="Images/img9.png" width="850">
 </p>
 
 ---
