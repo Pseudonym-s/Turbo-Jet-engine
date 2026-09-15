@@ -138,7 +138,7 @@ The compressor and turbine are mechanically connected through a common shaft.
 The compressor is responsible for increasing the pressure of the incoming air, while the turbine extracts energy from the hot combustion gases.
 
 <p align="center">
-  <img src="Images/img3.png" width="900">
+  <img src="Images/img5.png" width="900">
 </p>
 
 <p align="center">
@@ -165,20 +165,20 @@ CAD modelling was used to develop and visualize the rotating components before f
 
 Different blade geometries and rotor configurations were explored during the design process.
 
-## Turbine / Blade Model
+## Vanes / Blade Model
 
 <p align="center">
-  <img src="Images/img6.png" width="750">
+  <img src="Images/img8.png" width="750">
 </p>
 
 <p align="center">
-  <em>CAD model of the turbine blade arrangement.</em>
+  <em>CAD model of the turbine Vanes arrangement.</em>
 </p>
 
-## Curved Blade Geometry
+## Curved Turbine Blade Geometry
 
 <p align="center">
-  <img src="Images/img7.png" width="750">
+  <img src="Images/img9.png" width="750">
 </p>
 
 <p align="center">
@@ -200,7 +200,7 @@ The CAD models were used to study:
 An electronically controlled ignition system was developed for the combustion chamber.
 
 <p align="center">
-  <img src="Images/img8.png" width="850">
+  <img src="Images/img3.png" width="850">
 </p>
 
 <p align="center">
@@ -271,7 +271,7 @@ After fabrication and assembly, the prototype was experimentally tested to evalu
 ## Initial Test
 
 <p align="center">
-  <img src="Images/img5.gif" width="700">
+  <img src="Images/img7.gif" width="700">
 </p>
 
 <p align="center">
@@ -281,7 +281,7 @@ After fabrication and assembly, the prototype was experimentally tested to evalu
 ## Combustion Test
 
 <p align="center">
-  <img src="Images/img9.png" width="850">
+  <img src="Images/img6.png" width="850">
 </p>
 
 <p align="center">
@@ -345,6 +345,7 @@ The overall development process followed this workflow:
 - Fusion 360
 - SolidWorks
 - FreeCAD
+- Simscale
 
 ## Electronics & Control
 
@@ -365,54 +366,13 @@ The overall development process followed this workflow:
 
 This project involved practical application of:
 
-- Thermodynamics
 - Fluid Mechanics
-- Heat Transfer
-- Turbomachinery
-- Compressor Theory
-- Turbine Theory
 - Blade Geometry
-- Rotating Machinery
 - Combustion
 - Mechanical Design
 - CAD Modelling
 - Manufacturing
 - Experimental Testing
-
----
-
-# 📁 Repository Structure
-
-```text
-turbojet-engine-prototype/
-│
-├── README.md
-│
-├── Images/
-│   ├── img1.png
-│   ├── img2.png
-│   ├── img3.png
-│   ├── img4.png
-│   ├── img5.gif
-│   ├── img6.png
-│   ├── img7.png
-│   ├── img8.png
-│   └── img9.png
-│
-├── CAD/
-│   ├── Fusion360/
-│   ├── STEP/
-│   └── STL/
-│
-├── Design/
-│   ├── calculations/
-│   ├── drawings/
-│   └── specifications/
-│
-└── Testing/
-    ├── test-results/
-    └── observations/
-```
 
 ---
 
@@ -468,27 +428,30 @@ The main goals of this project were:
 ## CAD Models
 
 <p align="center">
-  <img src="Images/img6.png" width="600">
+  <img src="Images/img4.png" width="600">
 </p>
 
 <p align="center">
-  <img src="Images/img7.png" width="600">
+  <img src="Images/img9.png" width="600">
+</p>
+<p align="center">
+  <img src="Images/img8.png" width="600">
 </p>
 
 ## Ignition System
 
 <p align="center">
-  <img src="Images/img8.png" width="850">
+  <img src="Images/img3.png" width="850">
 </p>
 
 ## Testing
 
 <p align="center">
-  <img src="Images/img5.gif" width="700">
+  <img src="Images/img6.gif" width="700">
 </p>
 
 <p align="center">
-  <img src="Images/img9.png" width="850">
+  <img src="Images/img7.png" width="850">
 </p>
 
 ---
@@ -513,7 +476,7 @@ Through this project, practical experience was gained in:
 
 # 👨‍💻 Author
 
-## Akhil
+## Priyansh Sharma
 
 **Mechatronics Engineering Student**
 
