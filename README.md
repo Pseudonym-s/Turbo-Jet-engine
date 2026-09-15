@@ -138,7 +138,7 @@ The compressor and turbine are mechanically connected through a common shaft.
 The compressor is responsible for increasing the pressure of the incoming air, while the turbine extracts energy from the hot combustion gases.
 
 <p align="center">
-  <img src="Images/img5.png" width="900">
+  <img src="Images/img5.gif" width="900">
 </p>
 
 <p align="center">
